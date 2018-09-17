@@ -12,14 +12,13 @@ p{
 div{
     background: #47a5e0;
     max-width: 400px;
-    height: 600px;
+    max-height: 600px;
     box-shadow: 0px 15px #39257d;
     margin: 5px auto;
+    border-radius: 6px;
 }
 #box{
-    padding:56px;
-    margin-left: 200px;
-    margin-top: 100px;
+    float: right;
 }
 #whales{
     margin: 0 auto;
