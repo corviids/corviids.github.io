@@ -3,7 +3,7 @@ body{
     background-image: url(whalesrender.png);
     background-size: 100%;
 }
-h1{
+h1, h2{
     font-family: 'Bitter', serif;
 }
 p{
@@ -13,7 +13,7 @@ div{
     background: #47a5e0;
     max-width: 400px;
     max-height: 600px;
-    box-shadow: 5px 15px 10px #39257d;
+    box-shadow: 5px 10px 10px #39257d;
     margin: 5px auto;
     border-radius: 6px;
     padding: 56px;
